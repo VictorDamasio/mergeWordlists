@@ -1,3 +1,5 @@
+# MergeWordlists
+
 This script will take two wordlist files as arguments and output their cartesian product. 
 I found the need to make this script while studying Pentesting. It is useful to create custom wordlists for password cracking.
 
